@@ -50,7 +50,7 @@ export default function NavDrawer({ isDrawerOpen, toggleDrawer }) {
         >
           <div className={classes.list}>
             <div className={classes.title}>
-              <Typography variant="h5">Frank Orders</Typography>
+              <Typography variant="h5">Business Name</Typography>
             </div>
             <Divider />
             <List>
